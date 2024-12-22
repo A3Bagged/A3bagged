@@ -1,5 +1,14 @@
-## Hi there 👋
+![Profile Header](images/Header.png)
 
+<h1 align="center">Hi there, i'm Chris 👋</h1>
+<p align="center">As a passionate frontend developer and designer, I have transformed my love for creativity and technology into a fulfilling hobby. With a keen eye for aesthetics and a strong understanding of user experience, I enjoy crafting visually appealing, interactive websites and applications.</p>
+
+---
+
+## My skills and tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,windows,vscode,ae,ps,ai,pr,blender,sketchup,discord,figma,github)](https://skillicons.dev)
+
+<a href='https://ko-fi.com/cvanliere' target='_blank'><img style='border:0px;height:32px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--
 **A3Bagged/A3bagged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
